@@ -22,7 +22,7 @@ public partial class AudioPlayer : Node3D
 		PlayOneShot(streams[Utility.RandomRange(0, streams.Count)], volumeDb);
 	}
 
-  public void PlayOneShot(AudioStream stream, float volumeDb) { PlayOneShot(stream, volumeDb, 1f); }
+  	public void PlayOneShot(AudioStream stream, float volumeDb) { PlayOneShot(stream, volumeDb, 1f); }
 	public void PlayOneShot(AudioStream stream, float volumeDb, float pitch)
 	{
 		currentAudio.Stream = stream;
