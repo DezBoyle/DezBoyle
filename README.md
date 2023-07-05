@@ -1,6 +1,6 @@
 ### Dez Boyle
 
-I am a game developer, programmer, video editor and artist with a love for making games. I enjoy solving problems and building things as a hobby.
+I am a game developer, programmer, video editor and artist with a love for making games. I enjoy solving problems and building things.
 
 When I'm not programming or making games, I like to walk in the woods, tinker with electronics, edit videos, and learn new things.
 
