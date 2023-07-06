@@ -1,6 +1,5 @@
 using Godot;
 using System;
-using System.Collections.Generic;
 
 /// <summary>
 /// An Audio Player script that adds more functionality onto Godot's AudioStreamPlayer3D
