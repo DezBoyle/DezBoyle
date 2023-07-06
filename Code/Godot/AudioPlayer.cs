@@ -27,7 +27,7 @@ public partial class AudioPlayer : Node3D
 	{
 		currentAudio.Stream = stream;
 		currentAudio.Play();
-		currentAudio.VolumeDb = volumeDb - 100; //bug in godot.  -100db seems to be the same as 0db;
+		currentAudio.VolumeDb = volumeDb;
 		currentAudio.PitchScale = pitch;
 		currentAudio.Finished += currentAudio.QueueFree;
 		NewAudio();
