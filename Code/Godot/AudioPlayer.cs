@@ -26,7 +26,8 @@ public partial class AudioPlayer : Node3D
 	{
 		currentAudio.Stream = stream;
 		currentAudio.Play();
-		currentAudio.VolumeDb = volumeDb;
+  		currentAudio3D.VolumeDb = volumeDb;
+		currentAudio3D.MaxDb = volumeDb;
 		currentAudio.PitchScale = pitch;
 		currentAudio.Finished += currentAudio.QueueFree;
 		NewAudio();
