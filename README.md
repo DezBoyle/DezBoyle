@@ -1,11 +1,11 @@
-Dez Boyle
+Dez Boyle 🌳🌿
 ------
 
-I am a game developer 🎮, programmer 💻, video editor 🎥 and artist 🌈 with a love for making games. I enjoy solving problems 💡 and building things 🔨
+#### I'm a Game Developer 🎮, Programmer 💻, Video Editor 🎥 and Artist 🌈 with a love for making games. I enjoy solving problems 💡 and building things 🔨
 
 When I'm not programming or making games, I like to walk in the woods, tinker with electronics, edit videos, and learn new things.
 
-Play my Game!
+Take a look at my Game! 🙌
 ------
 [<img src="https://github.com/DezBoyle/DezBoyle/assets/41555304/b7f3ac2e-b4ae-467c-af9d-46a76342b4d9">](https://store.steampowered.com/app/1507620/ENDO/)
 <!--
