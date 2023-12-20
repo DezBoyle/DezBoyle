@@ -5,7 +5,7 @@ Dez Boyle 🌳🌿
 
 When I'm not programming or making games, I like to walk in the woods, tinker with electronics, edit videos, and learn new things.
 
-Take a look at my Game! 🙌
+Check out my Game! 🙌
 ------
 [<img src="https://github.com/DezBoyle/DezBoyle/assets/41555304/b7f3ac2e-b4ae-467c-af9d-46a76342b4d9">](https://store.steampowered.com/app/1507620/ENDO/)
 <!--
