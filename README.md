@@ -13,8 +13,6 @@
 
 - [ENDO](https://store.steampowered.com/app/1507620/ENDO/) (2021)
 
-- [Youtube](https://www.youtube.com/@DezBoyle)
-
 # Software Skills
 
 - Godot Engine (The best game engine)
