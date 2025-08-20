@@ -1,15 +1,18 @@
-Dez Boyle 🌳🌿
-------
+# What am I?
+- Human being (I think)
+- Game Developer 🎮
+- Programmer 💻
+- Video Editor 🎥
+- 3D Artist 🌞
+- Do-er of things.  I fix thing, build things, all that stuff. 💡🔨
 
-#### I'm a Game Developer 🎮, Programmer 💻, Video Editor 🎥 and Artist 🌞 with a love for making things 💡🔨
+# My Work
 
-When I'm not programming or making games, I like to walk in the woods, tinker with electronics, edit videos, and learn new things.
+- [Ecto](https://store.steampowered.com/app/2256970/Ecto/) (Work-in-Progress, 2022-Present)
 
-Check out my Game! 🙌
-------
-[<img src="https://github.com/DezBoyle/DezBoyle/assets/41555304/b7f3ac2e-b4ae-467c-af9d-46a76342b4d9">](https://store.steampowered.com/app/1507620/ENDO/)
-------
-📺 [Youtube](https://www.youtube.com/@DezBoyle)
+- [ENDO](https://store.steampowered.com/app/1507620/ENDO/) (2021)
+
+- [Youtube](https://www.youtube.com/@DezBoyle)
 <!--
 **DezBoyle/DezBoyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
