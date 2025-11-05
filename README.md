@@ -1,11 +1,8 @@
 # What am I?
-- Human being (I think)
 - Game Developer 🎮
 - Programmer 💻
-- Video Editor 🎥
 - 3D Artist 🌞
-- Do-er of things.  I fix thing, build things, all that stuff. 💡🔨
-- Nature enjoyer, aspiring homesteader
+- Do-er of things.  I fix thing, build things, all that stuff. 💡🔨 Also I can do a backflip
 
 # My Work
 
