@@ -6,7 +6,7 @@
 
 # My Work
 
-- [Ecto](https://store.steampowered.com/app/2256970/Ecto/) (Work-in-Progress, 2022-Present)
+- [Ecto](https://store.steampowered.com/app/2256970/Ecto/) (2022-2026)
 
 - [ENDO](https://store.steampowered.com/app/1507620/ENDO/) (2021)
 
