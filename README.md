@@ -1,7 +1,7 @@
 # What am I?
 - Game Developer 🎮
 - Programmer 💻
-- 3D Artist 🌞
+- Artist 🌞
 - Do-er of things.  I fix things, build things, all that stuff. 💡🔨 Also I can do a backflip
 
 # My Work
@@ -10,9 +10,8 @@
 
 - [ENDO](https://store.steampowered.com/app/1507620/ENDO/) (2021)
 
-# Software Skills
+# My Setup
 
-- Godot Engine (The best game engine)
-- Unity
-- Blender
+- Godot Engine
+- C#
 - Linux (Currently using Debian + SwayWM)
